@@ -1,4 +1,4 @@
-### Welcome to my portfolio! My goal is to become a professional software developer. Here you will find all projects I have developed.
+### Welcome to my portfolio! My goal is to become a professional web developer. Here you will find all projects I have developed.
 
 # Projects
 
