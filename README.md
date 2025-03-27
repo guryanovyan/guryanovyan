@@ -20,10 +20,6 @@
 **Technology**: Flutter, Dart   
 **Description**: Flutter application of a shoe store, where you can browse, search shoes and add them to your cart.
 
-### [To-Do app](https://github.com/guryanovyan/to-do-app)
-**Technology**: Flutter, Dart    
-**Description**: Flutter application of a To Do list, where you can add, delete and store your tasks.
-
 ##
 
 ### [Mini projects](https://github.com/guryanovyan/mini-projects)
